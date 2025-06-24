@@ -1,8 +1,8 @@
-# [project's title] | ZTM JS Web Projects Course
+# NASA APOD | ZTM JS Web Projects Course
 
-**Project [project's part]/20**
+**Project 14/20**
 
-[project's description]
+**In Process**
 
 ---
 
@@ -17,6 +17,7 @@
   - [🎓 What I learned](#-what-i-learned)
   - [🔙 Previous Project](#-previous-project)
   - [🔜 Next Project](#-next-project)
+  - [🗃️ Useful resources](#️-useful-resources)
 - [👤 Author](#-author)
   - [🌐 Connect with Me](#-connect-with-me)
   - [💻 Coding Profiles](#-coding-profiles)
@@ -27,16 +28,16 @@
 
 ### 📸 Screenshot
 
-![Live Preview Screenshot](./assets/screenshot.jpg)
+**In Process**
 
 ### 🔗 Links
 
- - [🔴 Live Demo](https://dalascript.github.io/projects-title/)
- - [🗂️ GitHub Repository](https://github.com/DalaScript/projects-title)
+ - [🔴 Live Demo](https://dalascript.github.io/nasa-apod/)
+ - [🗂️ GitHub Repository](https://github.com/DalaScript/nasa-apod)
 
 ### 📌 Features
 
- - ✅ [project's features list item]
+**In Process**
 
 ---
 
@@ -44,31 +45,23 @@
 
 ### 🛠️ Built with
 
- - [project's tech stack list item]
+**In Process**
 
 ### 🎓 What I Learned
 
- - [project's what i learned list item]
-
-  > 🚀 For me, this project was more about **practice** and gaining additional **experience**,  
-  > rather than learning something entirely new.  
-  >  
-  > 👨‍💻 Since I’m not a beginner and already familiar with these technologies,  
-  > I approached it with confidence — and still, I truly **enjoyed working on it**.  
-  >  
-  > 🎯 Overall, I consider this a very **valuable and enjoyable experience**.
+**In Process**
 
 ### 🔙 Previous Project
 
- - [previous project's title] | *[Project [part]/20]* → [View Repository](https://github.com/DalaScript/prev-projects-title)
+ - Spock Rock Game | *[Project 13/20]* → [View Repository](https://github.com/DalaScript/spock-rock-game)
 
 ### 🔜 Next Project
 
- - [next project's title] | *[Project [part]/20]* → [View Repository](https://github.com/DalaScript/next-projects-title)
+ - Math Sprint Game | *[Project 15/20]* → [View Repository](https://github.com/DalaScript/math-sprint-game)
 
 ### 🗃️ Useful resources
 
- - [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
+**In Process**
 
 ---
 
