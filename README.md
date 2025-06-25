@@ -2,7 +2,7 @@
 
 **Project 14/20**
 
-**In Process**
+🪐 NASA APOD (Astronomy Picture of the Day) is a web app that fetches breathtaking space imagery directly from NASA's open API. Users can explore the latest pictures of the cosmos, view detailed explanations, and save their favorite images locally using localStorage. All built with a clean, scrollable UI and optimized performance.
 
 ---
 
@@ -28,7 +28,7 @@
 
 ### 📸 Screenshot
 
-**In Process**
+![Live Preview Screenshot](./assets/screenshot.jpg)
 
 ### 🔗 Links
 
@@ -37,7 +37,14 @@
 
 ### 📌 Features
 
-**In Process**
+ - ✅ Fetches 10 random images from NASA’s APOD API
+ - ✅ Lazy-loaded, high-resolution imagery with smooth UI
+ - ✅ Displays title, explanation, date, and copyright
+ - ✅ Save images as favorites using localStorage
+ - ✅ Switch between “Results” and “Favorites” views
+ - ✅ Responsive layout for desktop and mobile devices
+ - ✅ Loading screen and save confirmation popup
+ - ✅ Clean card-based layout with modern styling
 
 ---
 
@@ -45,11 +52,29 @@
 
 ### 🛠️ Built with
 
-**In Process**
+ - HTML5
+ - CSS3
+ - Vanilla JavaScript
+ - localStorage
+ - NASA Open API – [APOD](https://api.nasa.gov/)
 
 ### 🎓 What I Learned
 
-**In Process**
+ - How to work with third-party APIs and handle dynamic data
+ - Async JavaScript with `fetch()` and `async/await`
+ - DOM manipulation to dynamically generate UI elements
+ - Using `localStorage` to store and retrieve user data
+ - Structuring reusable UI components with JS
+ - Creating a clean, responsive layout with mobile support
+ - Building user-friendly feedback with loaders and save confirmation
+
+  > 🚀 For me, this project was more about **practice** and gaining additional **experience**,  
+  > rather than learning something entirely new.  
+  >  
+  > 👨‍💻 Since I’m not a beginner and already familiar with these technologies,  
+  > I approached it with confidence — and still, I truly **enjoyed working on it**.  
+  >  
+  > 🎯 Overall, I consider this a very **valuable and enjoyable experience**.
 
 ### 🔙 Previous Project
 
@@ -61,7 +86,15 @@
 
 ### 🗃️ Useful resources
 
-**In Process**
+ - [Loaf](https://getloaf.io/) - Free Loaders
+ - [NASA API Demo](https://api.nasa.gov/planetary/apod?api_key=DEMO_KEY)
+ - [NASA API Documentation](https://api.nasa.gov/)
+ - [W3Schools - Includes()](https://www.w3schools.com/jsref/jsref_includes.asp)
+ - [W3Schools - JSON.stringify() method](https://www.w3schools.com/js/js_json_stringify.asp)
+ - [W3Schools - JSON Parse](https://www.w3schools.com/js/js_json_parse.asp)
+ - [Mozilla - Object.Values](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/values)
+ - [Mozilla - Delete Operator](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/delete)
+ - [MDN - window.scrollTo() documentation](https://developer.mozilla.org/en-US/docs/Web/API/Window/scrollTo)
 
 ---
 
