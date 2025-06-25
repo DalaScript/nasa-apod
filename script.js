@@ -6,7 +6,7 @@ const loader = document.querySelector('.loader');
 
 // NASA API
 const count = 10;
-// const apiKey = 'DEMO_KEY';
+const apiKey = 'DEMO_KEY';
 const apiUrl = `https://api.nasa.gov/planetary/apod?api_key=${apiKey}&count=${count}`;
 
 let resultsArray = [];
@@ -40,8 +40,13 @@ function createDOMNodes(page) {
         // Save Text
         const saveText = document.createElement("p");
         saveText.classList.add("clickable");
-        saveText.textContent = "Add To Favorites";
-        saveText.setAttribute("onClick", `saveFavorite('${result.url}')`);
+        if (page === 'results') {
+            saveText.textContent = "Add To Favorites";
+            saveText.setAttribute("onClick", `saveFavorite('${result.url}')`);
+        }else {
+            saveText.textContent = "Remove Favorite";
+            saveText.setAttribute("onClick", `removeFavorite('${result.url}')`);
+        }
         // Card Text
         const cardText = document.createElement("p");
         cardText.textContent = result.explanation;
@@ -71,6 +76,7 @@ function updateDOM(page) {
         favorites = JSON.parse(localStorage.getItem('nasaFavorites'));
         console.log('favorites from localStorage', favorites);
     }
+    imagesContainer.textContent = '';
     createDOMNodes(page);
 }
 
@@ -101,6 +107,16 @@ function saveFavorite(itemUrl) {
             localStorage.setItem('nasaFavorites', JSON.stringify(favorites));
         }
     });
+}
+
+// Remove item from Favorites
+function removeFavorite(itemUrl) {
+    if(favorites[itemUrl]) {
+        delete favorites[itemUrl];
+        // Set Favorites in localStorage
+        localStorage.setItem('nasaFavorites', JSON.stringify(favorites));
+        updateDOM('favorites');
+    }
 }
 
 // On Load 
