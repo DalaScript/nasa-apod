@@ -42,7 +42,6 @@
  - ✅ Displays title, explanation, date, and copyright
  - ✅ Save images as favorites using localStorage
  - ✅ Switch between “Results” and “Favorites” views
- - ✅ Responsive layout for desktop and mobile devices
  - ✅ Loading screen and save confirmation popup
  - ✅ Clean card-based layout with modern styling
 
@@ -65,7 +64,6 @@
  - DOM manipulation to dynamically generate UI elements
  - Using `localStorage` to store and retrieve user data
  - Structuring reusable UI components with JS
- - Creating a clean, responsive layout with mobile support
  - Building user-friendly feedback with loaders and save confirmation
 
   > 🚀 For me, this project was more about **practice** and gaining additional **experience**,  
