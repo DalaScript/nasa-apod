@@ -88,11 +88,11 @@
  - [NASA API Demo](https://api.nasa.gov/planetary/apod?api_key=DEMO_KEY)
  - [NASA API Documentation](https://api.nasa.gov/)
  - [W3Schools - Includes()](https://www.w3schools.com/jsref/jsref_includes.asp)
- - [W3Schools - JSON.stringify() method](https://www.w3schools.com/js/js_json_stringify.asp)
+ - [W3Schools - JSON.stringify()](https://www.w3schools.com/js/js_json_stringify.asp)
  - [W3Schools - JSON Parse](https://www.w3schools.com/js/js_json_parse.asp)
- - [Mozilla - Object.Values](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/values)
- - [Mozilla - Delete Operator](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/delete)
- - [MDN - window.scrollTo() documentation](https://developer.mozilla.org/en-US/docs/Web/API/Window/scrollTo)
+ - [MDN - Object.Values](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/values)
+ - [MDN - Delete Operator](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/delete)
+ - [MDN - window.scrollTo()](https://developer.mozilla.org/en-US/docs/Web/API/Window/scrollTo)
 
 ---
 
