@@ -55,7 +55,7 @@
  - CSS3
  - Vanilla JavaScript
  - localStorage
- - NASA Open API – [APOD](https://api.nasa.gov/)
+ - NASA Open API – [https://api.nasa.gov/](https://api.nasa.gov/)
 
 ### 🎓 What I Learned
 
@@ -84,15 +84,15 @@
 
 ### 🗃️ Useful resources
 
- - [Loaf](https://getloaf.io/) - Free Loaders
- - [NASA API Demo](https://api.nasa.gov/planetary/apod?api_key=DEMO_KEY)
- - [NASA API Documentation](https://api.nasa.gov/)
- - [W3Schools - Includes()](https://www.w3schools.com/jsref/jsref_includes.asp)
- - [W3Schools - JSON.stringify()](https://www.w3schools.com/js/js_json_stringify.asp)
- - [W3Schools - JSON Parse](https://www.w3schools.com/js/js_json_parse.asp)
- - [MDN - Object.Values](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/values)
- - [MDN - Delete Operator](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/delete)
- - [MDN - window.scrollTo()](https://developer.mozilla.org/en-US/docs/Web/API/Window/scrollTo)
+ - [Loaf](https://getloaf.io/) – Free animated loaders
+ - [NASA API Demo](https://api.nasa.gov/planetary/apod?api_key=DEMO_KEY) – APOD API example call
+ - [NASA API Documentation](https://api.nasa.gov/) – Docs for NASA’s public APIs
+ - [W3Schools - Includes()](https://www.w3schools.com/jsref/jsref_includes.asp) – Check if value exists in array
+ - [W3Schools - JSON.stringify()](https://www.w3schools.com/js/js_json_stringify.asp) – Convert JS object to string
+ - [W3Schools - JSON Parse](https://www.w3schools.com/js/js_json_parse.asp) – Convert string to JS object
+ - [MDN - Object.Values](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/values) – Get array of object’s values
+ - [MDN - Delete Operator](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/delete) – Remove property from object
+ - [MDN - window.scrollTo()](https://developer.mozilla.org/en-US/docs/Web/API/Window/scrollTo) – Scroll to position in window
 
 ---
 
