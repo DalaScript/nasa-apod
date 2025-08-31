@@ -56,14 +56,6 @@
 
 ## 🧠 My Process
 
-### 🔙 Previous Project
-
-- Spock Rock Game | *Project 13/20* → [View Repository](https://github.com/DalaScript/spock-rock-game)
-
-### 🔜 Next Project
-
-- Math Sprint Game | *Project 15/20* → [View Repository](https://github.com/DalaScript/math-sprint-game)
-
 ### 🗃️ Useful resources
 
 - [Loaf](https://getloaf.io/)
@@ -75,6 +67,14 @@
 - [MDN - Object.Values](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/values)
 - [MDN - Delete Operator](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/delete)
 - [MDN - window.scrollTo()](https://developer.mozilla.org/en-US/docs/Web/API/Window/scrollTo)
+
+### 🔙 Previous Project
+
+- Spock Rock Game | *Project 13/20* → [View Repository](https://github.com/DalaScript/spock-rock-game)
+
+### 🔜 Next Project
+
+- Math Sprint Game | *Project 15/20* → [View Repository](https://github.com/DalaScript/math-sprint-game)
 
 ---
 
