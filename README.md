@@ -12,12 +12,11 @@
   - [📸 Screenshot](#-screenshot)
   - [🔗 Links](#-links)
   - [📌 Features](#-features)
-- [🧠 My process](#-my-process)
   - [🛠️ Built with](#️-built-with)
-  - [🎓 What I learned](#-what-i-learned)
+- [🧠 My process](#-my-process)
+  - [🗃️ Useful resources](#️-useful-resources)
   - [🔙 Previous Project](#-previous-project)
   - [🔜 Next Project](#-next-project)
-  - [🗃️ Useful resources](#️-useful-resources)
 - [👤 Author](#-author)
   - [🌐 Connect with Me](#-connect-with-me)
   - [💻 Coding Profiles](#-coding-profiles)
@@ -32,67 +31,50 @@
 
 ### 🔗 Links
 
- - [🔴 Live Demo](https://dalascript.github.io/nasa-apod/)
- - [🗂️ GitHub Repository](https://github.com/DalaScript/nasa-apod)
+- [🔴 Live Demo](https://dalascript.github.io/nasa-apod/)
+- [🗂️ GitHub Repository](https://github.com/DalaScript/nasa-apod)
 
 ### 📌 Features
 
- - ✅ Fetches 10 random images from NASA’s APOD API
- - ✅ Lazy-loaded, high-resolution imagery with smooth UI
- - ✅ Displays title, explanation, date, and copyright
- - ✅ Save images as favorites using localStorage
- - ✅ Switch between “Results” and “Favorites” views
- - ✅ Loading screen and save confirmation popup
- - ✅ Clean card-based layout with modern styling
+- ✅ Fetches 10 random images from NASA’s APOD API
+- ✅ Lazy-loaded, high-resolution imagery with smooth UI
+- ✅ Displays title, explanation, date, and copyright
+- ✅ Save images as favorites using localStorage
+- ✅ Switch between “Results” and “Favorites” views
+- ✅ Loading screen and save confirmation popup
+- ✅ Clean card-based layout with modern styling
+
+### 🛠️ Built with
+
+- HTML5
+- CSS3
+- Vanilla JavaScript
+- localStorage
+- NASA Open API – [https://api.nasa.gov/](https://api.nasa.gov/)
 
 ---
 
 ## 🧠 My Process
 
-### 🛠️ Built with
-
- - HTML5
- - CSS3
- - Vanilla JavaScript
- - localStorage
- - NASA Open API – [https://api.nasa.gov/](https://api.nasa.gov/)
-
-### 🎓 What I Learned
-
- - How to work with third-party APIs and handle dynamic data
- - Async JavaScript with `fetch()` and `async/await`
- - DOM manipulation to dynamically generate UI elements
- - Using `localStorage` to store and retrieve user data
- - Structuring reusable UI components with JS
- - Building user-friendly feedback with loaders and save confirmation
-
-  > 🚀 For me, this project was more about **practice** and gaining additional **experience**,  
-  > rather than learning something entirely new.  
-  >  
-  > 👨‍💻 Since I’m not a beginner and already familiar with these technologies,  
-  > I approached it with confidence — and still, I truly **enjoyed working on it**.  
-  >  
-  > 🎯 Overall, I consider this a very **valuable and enjoyable experience**.
-
 ### 🔙 Previous Project
 
- - Spock Rock Game | *[Project 13/20]* → [View Repository](https://github.com/DalaScript/spock-rock-game)
+- Spock Rock Game | *Project 13/20* → [View Repository](https://github.com/DalaScript/spock-rock-game)
 
 ### 🔜 Next Project
 
- - Math Sprint Game | *[Project 15/20]* → [View Repository](https://github.com/DalaScript/math-sprint-game)
+- Math Sprint Game | *Project 15/20* → [View Repository](https://github.com/DalaScript/math-sprint-game)
 
 ### 🗃️ Useful resources
 
- - [Loaf](https://getloaf.io/) – Free animated loaders
- - [NASA API Demo](https://api.nasa.gov/planetary/apod?api_key=DEMO_KEY) – APOD API example call
- - [NASA API Documentation](https://api.nasa.gov/) – Docs for NASA’s public APIs
- - [W3Schools - Includes()](https://www.w3schools.com/jsref/jsref_includes.asp) – Check if value exists in array
- - [W3Schools - JSON.stringify()](https://www.w3schools.com/js/js_json_stringify.asp) – Convert JS object to string
- - [W3Schools - JSON Parse](https://www.w3schools.com/js/js_json_parse.asp) – Convert string to JS object
- - [MDN - Object.Values](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/values) – Get array of object’s values
- - [MDN - Delete Operator](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/delete) – Remove property from object
- - [MDN - window.scrollTo()](https://developer.mozilla.org/en-US/docs/Web/API/Window/scrollTo) – Scroll to position in window
+- [Loaf](https://getloaf.io/)
+- [NASA API Demo](https://api.nasa.gov/planetary/apod?api_key=DEMO_KEY)
+- [NASA API Documentation](https://api.nasa.gov/)
+- [W3Schools - Includes()](https://www.w3schools.com/jsref/jsref_includes.asp)
+- [W3Schools - JSON.stringify()](https://www.w3schools.com/js/js_json_stringify.asp)
+- [W3Schools - JSON Parse](https://www.w3schools.com/js/js_json_parse.asp)
+- [MDN - Object.Values](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/values)
+- [MDN - Delete Operator](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/delete)
+- [MDN - window.scrollTo()](https://developer.mozilla.org/en-US/docs/Web/API/Window/scrollTo)
 
 ---
 
@@ -100,13 +82,13 @@
 
 ### 🌐 Connect with Me
 
- - [Instagram](https://www.instagram.com/DalaScript)
- - [YouTube](https://www.youtube.com/@DalaScript)
+- [Instagram](https://www.instagram.com/DalaScript)
+- [YouTube](https://www.youtube.com/@DalaScript)
 
 ### 💻 Coding Profiles
 
- - [freeCodeCamp](https://www.freecodecamp.org/DalaScript)
- - [FrontendMentor](https://www.frontendmentor.io/profile/DalaScript)
- - [GitHub](https://github.com/DalaScript)
+- [freeCodeCamp](https://www.freecodecamp.org/DalaScript)
+- [FrontendMentor](https://www.frontendmentor.io/profile/DalaScript)
+- [GitHub](https://github.com/DalaScript)
 
 *🙌 Thanks for checking out my project! More coming soon. Stay tuned 🚀*
